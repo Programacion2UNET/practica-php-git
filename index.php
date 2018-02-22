@@ -10,6 +10,6 @@
 				<a href="views/read.php">Leer registros</a>
 			</li>
         </ul>
-		<p>Cambio realizado por Luis Ortega</p>
+			<p>Se quitó la linea</p>
     </body>
 </html>
