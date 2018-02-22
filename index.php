@@ -13,5 +13,6 @@
                 <a href="views/read.php">Leer registros</a>
             </li>
         </ul>
+			<p>Se quitó la linea</p>
     </body>
 </html>
